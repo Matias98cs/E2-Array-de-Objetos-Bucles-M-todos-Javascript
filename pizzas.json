@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "nombre": "Napolitana",
+        "ingredientes": [
+            "Queso Muzzarella",
+            "Jamon",
+            "Tomate",
+            "Oregano"
+        ],
+        "precio": 750
+    },
+    {
+        "id": 2,
+        "nombre": "Pepperoni",
+        "ingredientes": [
+            "Queso Muzzarella",
+            "Peperoni",
+            "Tomate",
+            "Oregano",
+            "Albahaca"
+        ],
+        "precio": 600
+    },
+    {
+        "id": 3,
+        "nombre": "Palmitos-Jamon",
+        "ingredientes": [
+            "Palmitos",
+            "Jamon",
+            "Salsa Golf",
+            "Queso",
+            "Salsa-Tomate"
+        ],
+        "precio": 680
+    },
+    {
+        "id": 4,
+        "nombre": "Margarita",
+        "ingredientes": [
+            "Queso Muzzarella",
+            "Pimienta",
+            "Tomate",
+            "Albahaca"
+        ],
+        "precio": 680
+    },
+    {
+        "id": 5,
+        "nombre": "fugazza",
+        "ingredientes": [
+            "cebolla",
+            "Jamaceitunason",
+            "Queso",
+            "Salsa-Tomate"
+        ],
+        "precio": 800
+    },
+    {
+        "id": 6,
+        "nombre": "cuatro quesos",
+        "ingredientes": [
+            "Queso Muzzarella",
+            "Queso gorgonzola",
+            "Queso parmesano",
+            "Queso fontina",
+            "Salsa-Tomate"
+        ],
+        "precio": 550
+    }
+]
